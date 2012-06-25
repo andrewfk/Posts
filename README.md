@@ -17,8 +17,8 @@ First things first: Loading up the backlog
 Before we dive into development, we'll take some time to introduce you to the team and the team to the project during the project kick-off meeting. Once the team is familiar with the goals of the project, we'll start to work with you to load up the project backlog. The backlog is a list of features that you want to include in the project. There are two twists to this feature list, however: 1) the features are prioritized and 2) the features are defined in independent, vertical slices of functionality. This way of describing features is called a user story. 
 
 
-> Definition: User Story
-> A user story is the description of a particular action told from the user's point of view. It also provides the reason for the feature. Example: As a site visitor, I want to see the avocado crop report so that I know when to buy the best avocados.
+	> Definition: User Story
+	> A user story is the description of a particular action told from the user's point of view. It also provides the reason for the feature. Example: As a site visitor, I want to see the avocado crop report so that I know when to buy the best avocados.
 
 Once we have the product described in user stories, it's time to plan the first development sprint.
 
