@@ -28,9 +28,13 @@ Taking the time to plan
 At the beginning of each Sprint, we'll ask you to join us for a planning meeting. This meeting usually takes about 2 hours. During the meeting, the team will discuss the highest priority user stories with you. We'll discuss what each story is about, possible technical challenges, and talk at a high-level about possible solutions. Then we determine the size of the story with a game called Planning Poker. This helps the team determine how much work they'll commit to for the sprint.
 
 Planning poker is an estimation card game the team plays to determine the size of stories. 
+
 1. For each story, the team discusses what the feature is about. 
+
 2. Once everyone has a good sense of what the feature is, the team is ready to play their hands. Everyone selects a card with the story point value they want to assign the story. The cards have the values of a pseudo-Fibonacci sequence on them: 0, 1/2, 1, 2, 3, 5, 8, 13, 20, and 40. Sometimes, we'll also use ? and infinity when someone really doesn't understand.  
+
 3. At the count of three, everyone shows their card at the same time. This ensures that everyone is estimating independently. 
+
 4. If everyone agrees on the size, the value is recorded and we moved on. If the sizes vary, we discuss it a bit more and then either reach a consensus or vote again. 
 
 One more thing: the Scrum Master and the Product Owner don't get to play -- they can help facilitate discussion and answer questions about expectations, respectively, but they don't get to influence the team's decision.
