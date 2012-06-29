@@ -1,32 +1,59 @@
 Working with the Web Chefs: A Guidebook
 =======================================
 
-So you're about to start working with the Web Chefs. Let's get cookin'! You already know that we're world-class web developers who are passionate about performance, design, and open source. Aside from the technical expertise we bring, part of our success is attributed to how we approach work. At Four Kitchens, the approach we use is called Scrum.
+So, you're about to start working with the Web Chefs? Let's get cookin'! 
 
-If you haven't used, or even heard of, Scrum before, don't worry: the Four Kitchens team are scrum experts.  We have three certified scrum masters (Suzy, Andrew, and Leah) and two certified product owners (Todd and Aaron) on staff. We've also put together this little guide to get you started. 
+You already know that we're world-class web developers who are passionate about performance, design, and open source. Aside from the technical expertise we bring, part of our success is attributed to how we approach work. At Four Kitchens, the approach we use is called Scrum.
 
-What Scrum is all about
------------------------
+If you haven't used, or even heard of, scrum before, don't worry: the Four Kitchens team are scrum experts.  We have three certified scrum masters (Suzy, Andrew, and Leah) and two certified product owners (Todd and Aaron) on staff. We've also put together this little guide to get you started. 
 
-Scrum is an approach to adapting to ever-changing needs in software development. Requirements change, timelines change, ideas change, stakeholders change, and budgets change. Always. With Scrum, the focus is placed on getting the most important stuff done first. The focus is also on getting to demonstrable, releasable features more often. 
+What is Scrum?
+--------------
+
+Scrum is a simple framework for managing projects. It's an approach to adapting to ever-changing needs in software development. Requirements change, timelines change, ideas change, stakeholders change, and budgets change. Always. With Scrum, the focus is placed on getting the most important stuff done first. The focus is also on getting to demonstrable, releasable features more frequently.
+
+Later in this guide, we'll get a little more specific about the philosophy of scrum, what scrum is, and what scrum isn't. 
+
+The people of scrum
+-------------------
+
+There are three roles that you'll hear about in scrum: the scrum master, the scrum team, and the product owner. 
+
+The scrum master's main duty is to ensure that the scrum team has the best possible environment to be productive. As the name indicates, the scrum master is also responsible for enforcing the scrum process.
+
+The scrum team is the group of developers, designers, and systems administrators who will be building your project. 
+
+The final role is that of the product owner. As a client working with Four Kitchens, the product owner, typically, is you. This means you'll be responsible for defining the product that the team is building. If you've never worked on a scrum or agile project before, this job takes on a slightly different shape than with other methods of project management. In textbook scrum, the product owner's primary responsibility is to keep a ready backlog of features. The product owner determines what features are required in each release, the priority of the features, and *holds the product vision*.
+
+To be ultimately effective, a product owner has time, knowledge, and authority: time to attend scrum ceremonies, knowledge about the product's features, and the authority to make decisions about the product.
+
+
+
+Sprints
+-------
 
 In scrum, we get ever closer to a product launch through a series of development sprints. Sprints at Four Kitchens are usually 9 days long. 
 
-First things first: Loading up the backlog
+> Scrum is also a philosophy of adaptability, trust, and making commitments. The scrum team can use the philosophy as a framework for discussions that would otherwise be difficult. The product owner and client can, in turn, use the framework to plan for what features the team should focus on next and for defining how the development of product will pan out when discussing progress with stakeholders. 
 
-Before we dive into development, we'll take some time to introduce you to the team and the team to the project during the project kick-off meeting. Once the team is familiar with the goals of the project, we'll start to work with you to load up the project backlog. The backlog is a list of features that you want to include in the project. There are two twists to this feature list, however: 1) the features are prioritized and 2) the features are defined in independent, vertical slices of functionality. This way of describing features is called a user story. 
+First things first: Loading up the project backlog
+------------------------------------------
+
+Before we dive into development, we'll take some time to introduce you to the team and the team to the project during a project kick-off meeting. Once the team is familiar with the goals of the project, we'll start to work with you to load up the project backlog. The project backlog is a list of features that you want to include in the project. There are two twists to this feature list, however: 1) the features are prioritized and 2) the features are defined in independent, "vertical" slices of functionality. This way of describing features is called a user story. 
 
 
-	Definition: User Story
-	----------------------
-	A user story is the description of a particular action told from the user's point of view. It also provides the reason for the feature. Example: As a site visitor, I want to see the avocado crop report so that I know when to buy the best avocados.
+> Definition: User Story
+>
+> A user story is the description of a particular action told from the user's point of view. It also provides the reason for the feature. Example: As a site visitor, I want to see the avocado crop report so that I know when to buy the best avocados.
+> 
+> A "vertical" slice of functionality includes all of the necessary components to make it work: database, back-end business logic, user experience design, and visual design. 
 
 Once we have the product described in user stories, it's time to plan the first development sprint.
 
 Taking the time to plan
 -----------------------
 
-At the beginning of each Sprint, we'll ask you to join us for a planning meeting. This meeting usually takes about 2 hours. During the meeting, the team will discuss the highest priority user stories with you. We'll discuss what each story is about, possible technical challenges, and talk at a high-level about possible solutions. Then we determine the size of the story with a game called Planning Poker. This helps the team determine how much work they'll commit to for the sprint.
+At the beginning of each sprint, we'll ask you to join us for a planning meeting. This meeting usually takes about 2 hours. During the meeting, the team will discuss the highest priority user stories with you. We'll discuss what each story is about, possible technical challenges, and talk at a high-level about possible solutions. Then we determine the size of the story with a game called Planning Poker. This helps the team determine how much work they'll commit to for the sprint.
 
 Planning poker is an estimation card game the team plays to determine the size of stories. 
 
@@ -48,7 +75,7 @@ One more thing: the Scrum Master and the Product Owner don't get to play -- they
 >
 >In development, like many things, it can be hard to judge how long, specifically, it might take to complete a task. Judging relative effort is a bit easier, though. Mowing the lawn takes about twice as long as cleaning the bathrooms. A german shepherd is about twice as big as a border collie. When working on a project, developers can get a sense of how much work features are going to be relative to other things they've seen before. As the project continues and the team gains experience working together, estimates get more accurate. 
 
-Now that the top priority stories are agreed upon, the team will make a commitment to a certain number of story points. This is the amount of work the team is willing to say will definitely be done by the demo. During the first sprint, the team will commit to a number of story points they feel comfortable committing to. If they end up completing all of the work, they can pull stories in from the backlog. In future sprints, the velocity, or number of story points the team commits to, is dictated by the number of points completed in the last sprint.
+Now that we've agreed which stories are the top priority, the team will make a commitment to a certain number of story points. This is the amount of work the team is willing to say will definitely be done by the demo. During the first sprint, the team will commit to a number of story points they feel comfortable committing to. If they end up completing all of the work, they can pull stories in from the backlog. In future sprints, the velocity, or number of story points the team commits to, is dictated by the number of points completed in the last sprint.
 
 With the sprint commitment made, the planning session is complete and the team can get to work.
 
@@ -91,6 +118,51 @@ Demos are pretty straightforward:
 
 > During a demo, sometimes it's tempting to ask for small (or big) changes to a feature before accepting it. In this situation, there are a couple of considerations to make. Any change to the feature is more work that needs to be done. Does the feature, as demonstrated, function well enough to meet the requirement or does it miss the mark entirely? If it genuinely fails and needs to be reworked in the next sprint, the story should fail acceptance and be addressed in the next sprint. If it functions well enough, we generally encourage the product owner to accept the story as complete, add the changes as a new story in the backlog, and prioritize the changes against other features. Sometimes that change won't seem so important, after all. 
 
+Backlog Grooming
+----------------
+
+During the sprint, the Scrum master may call a backlog grooming meeting. Sometimes, this meeting is also referred to as a pre-planning meeting. Similar to a planning meeting, the backlog grooming meeting is a time for the developers to discuss user stories with the product owner. They can discuss the intended use and behavior and its priority relative to other stories in the project backlog. The team can write description notes, steps for "how to demo" the feature, and size the story if there is enough information.
+
+Sprint Retrospective
+--------------------
+
+At the end of each sprint, after the demo, you may be invited to join the team for a sprint retrospective. This is a time designated to review how well the team is working together and what steps can be taken to improve. In a textbook retrospective, the scrum master will pose the same three questions to everyone on the team in a round robin fashion:
+
+1. What went well?
+2. What didn't go as well?
+3. What can we do to improve? 
+
+Everyone is given the chance to speak and discussion is discouraged until everyone has had the chance to speak. 
+
+The format of the retrospective isn't set in stone, however, so be prepared for a variety of activities led by your scrum master.
+
+When will my project be done?
+-----------------------------
+
+Because scrum takes an iterative approach to project development, deciding release dates is a little different from traditional approaches. Classically, an arbitrary deadline is set at the beginning of the project. As the deadline approaches, teams scramble, work long hours, and often deliver buggy software. With scrum, a different tack is taken. As the project develops momentum, the team begins to work at a predictable pace. Their velocity, or number of story points they complete each sprint, becomes fairly standard. Once the team and client have a ready backlog, including all of the features needed for launch that have been sized, the team can predict when the minimally viable product (MVP) will be ready. For example: if there are 200 story points in the backlog and the team has a velocity of 40 points, the team can confidently say that they'll be ready to launch in 5 sprints (or about 10 weeks). 
+
+The Roles of Scrum
+------------------
+
+In scrum, there are three main roles: scrum master, scrum team, and product owner. The scrum master's duty is to ensure that the scrum team has the best possible environment to be productive. They schedule the correct meetings, remove any blockers that they can, and enforce the process. Their duties often overlap with those of a traditional project manager, as well. The scrum team includes the players you might suspect: designers, developers, and systems administrators. These are the web chefs who will make the project happen. 
+
+The product owner role typically falls to you, the client. 
+
+Time
+Authority
+Knowledge
+
+
+Product Launch
+--------------
+
+<h3>Staging</h3>
+
+<h3>Rolling to production</h3>
+
+<h3>DNS propagation</h3>
+
+
 
 Glossary:
 
@@ -116,6 +188,9 @@ Story points
 
 User Story
 
+
+A deeper dive into scrum
+------------------------
 
 
 Scrum and how we use it.
