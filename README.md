@@ -17,6 +17,7 @@ Later in this guide, we discuss the philosophy of scrum a little deeper. Let's n
 > Scrum isn't just a framework, it's a philosophy of adaptability, trust, and making commitments. The scrum team can use it as a framework for discussions that would otherwise be difficult. The product owner and client can, in turn, use the framework to plan for what features the team should focus on next and for defining how the development of product will pan out when discussing progress with stakeholders. 
 
 
+
 The People of Scrum
 -------------------
 
