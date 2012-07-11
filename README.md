@@ -53,6 +53,8 @@ The project backlog is a list of features that you want to include in the projec
 > A user story is the description of a feature told from the user's point of view. It also provides the reason for the feature. Example: As a site visitor, I want to see the avocado crop report so that I know when to buy the best avocados.
 > 
 > Writing requirements in this way creates thin, vertical slices of functionality. The requirement then includes all of the necessary components to make it work: database, back-end business logic, user experience design, and visual design. Writing feature requirements in this way allows for the whole feature, back to front, to be developed by the team at once. Ideally, no feature should be so big that it can't be developed within a sprint.
+>
+> When we write user stories, we also take the time to write a brief "How to Demo" script. This helps everyone get on the same page by articulating what steps will demonstrate that the story is complete.
 
 Once we have the product described in user stories, it's time to plan the first development sprint.
 
@@ -85,8 +87,9 @@ Now that we've agreed which stories are the top priority, the team will make a c
 
 With the sprint commitment made, the planning session is complete and the team can get to work.
 
-> Protip: Doing more:
-> But, I think they can do more... In Scrum, the product owner must trust the team that they are working at a sustainable pace. The team determines their velocity over the course of several sprints and only commits to that much work for the next sprint. The team, in exchange for the trust, is honest with the product owner about the amount of work they can complete. They don't under- or over-commit. They will commit to what they believe they can definitely get done. If things move faster than expected, the team can chose to pull the next highest priority item from the backlog. With appropriate and reasonable commitments, expectations are appropriately set and all of the work that is expected to get done is completed.
+> Protip:
+>
+> In Scrum, the product owner must trust that the team is working at a sustainable pace. The team determines their velocity over the course of several sprints and only commits to that much work for the next sprint. The team, in exchange for the trust, is honest with the product owner about the amount of work they can complete. They don't under- or over-commit. They will commit to what they believe they can definitely get done. If things move faster than expected, the team can chose to pull the next highest priority item from the backlog. With appropriate and reasonable commitments, expectations are appropriately set and all of the work that is expected to get done is completed.
 >
 >In a lot of projects, the process is simultaneously feature- and deadline- driven. All the features need to be done by a certain date. This causes a lot of Product Owners and project managers to over-commit their team and teams to feel pressured into over-committing. At the end of the development cycle, however, everyone is disappointed because things didn't get done, there are a lot of bugs, and trust between the team and product owner was broken. 
 
