@@ -12,9 +12,19 @@ What is Scrum?
 
 Scrum is a simple framework for managing projects. It's an approach to adapting to ever-changing needs in software development. Requirements change, timelines change, ideas change, stakeholders change, and budgets change. Always. With Scrum, the focus is placed on getting the most important stuff done first. The focus is also on getting to demonstrable, releasable features more frequently.
 
-Later in this guide, we discuss the philosophy of scrum a little deeper. Let's not worry about the whys for now, let's take a look at the whos and whats.
+Why Scrum?
+----------
 
-> Scrum isn't just a framework, it's a philosophy of adaptability, trust, and making commitments. The scrum team can use it as a framework for discussions that would otherwise be difficult. The product owner and client can, in turn, use the framework to plan for what features the team should focus on next and for defining how the development of product will pan out when discussing progress with stakeholders. 
+The reasons to use Scrum are many, but the primary reason is that it jibes well with our people-first approach. Like The Agile Manifesto (agilemanifesto.org) states, we value "individuals and interactions over processes and tools" and "customer collaboration over contract negotiation." We also value "working software over comprehensive documentation" and "responding to change over following a plan." 
+
+Scrum is a project management process that takes an incremental and iterative approach to software development with a goal of constant improvement: constant improvement to the product and constant improvement to the process itself. We emphasize getting functions to a demonstrable, releasable state through a series of development sprints. Overall, about 60% of product features go unused. Stated another way, up to 60% of feature development holds up a release. With that in mind, we work on the most important features first. We work with our clients to determine which features are a priority and which features can wait until later releases. This approach does have some overhead, but it also means that any feature that is done is never waiting on another layer to be completed in order to be released. Done is done. It also means that we're not building infrastructure that will never be used. 
+
+From the client perspective, Scrum lets you see what we're working on more often. We do demos every two weeks. You will always know what has been completed and what's going to be worked on next. We also seek frequent feedback from our clients. This gives you the opportunity to tell us when we are and aren't on the right track. 
+
+Scrum isn't just a framework, it's a philosophy of adaptability, trust, and making commitments. The scrum team can use it as a framework for discussions that would otherwise be difficult. The product owner and client can, in turn, use the framework to plan for what features the team should focus on next and for defining how the development of product will pan out when discussing progress with stakeholders. 
+
+If you want to understand more about the Scrum philosophy, we can direct you to some excellent resources. Now that we've covered some of the whys, let's take a look at the whos and whats.
+
 
 
 
@@ -144,6 +154,7 @@ Everyone is given the chance to speak and discussion is discouraged until everyo
 
 The format of the retrospective isn't set in stone, however, so be prepared for a variety of activities led by your scrum master.
 
+
 Release planning: When will my project be done?
 -----------------------------------------------
 
@@ -151,15 +162,16 @@ Because scrum takes an iterative approach to project development, deciding relea
 
 Early in the process, we'll schedule a release planning meeting to review what features must be complete before the first release. This will help you schedule your release once the team has established their velocity.
 
-Product Launch
+
+Project Retrospective
+---------------------
+
+Similar to the sprint retrospective, we will likely invite you to a project retrospective when your project has launched. This gives us a chance to inspect our process with you. We seek to constantly improve, not just on a sprint-by-sprint basis, but also in the longer-term sense. The project retrospective helps us do this.
+
+In Conclusion
 --------------
 
-<h3>Staging</h3>
-
-<h3>Rolling to production</h3>
-
-<h3>DNS propagation</h3>
-
+In conclusion, we're excited to be working with you. If you have any questions about the Sscrum process, feel free to ask your project's scrum master or any of the web chefs. We are enthusiastic about Scrum and love to talk about it. 
 
 
 Glossary:
@@ -188,63 +200,9 @@ Story points
 User Story
 
 
-A deeper dive into scrum
-------------------------
 
 
-Scrum and how we use it.
-
-At Four Kitchens, we subscribe to the agile philosophy when managing our projects. Specifically, we employ the Scrum framework. If you haven't heard of or used Scrum before, don't worry: the Four Kitchens team are scrum experts, with two certified product owners and three certified scrum masters on staff. We are also accustomed to guiding clients through the philosophy, the process, and the various rituals. This is a quick primer on Scrum and our approach to it. If you want to learn more about Scrum and Agile development, we can give you a great reading list. We are as much fanatics about scrum as we are about development. 
-
-What is scrum?
-
-Scrum is an agile project management process that takes an incremental and iterative approach to software development. The goal is constant improvement: constant improvement to the product and constant improvement to the process itself. An emphasis is placed on getting individual pieces of functionality to a demonstrable, releasable state through a series of development sprints. This allows the development cycle to respond to changing requirements, priorities, and challenges more readily and allows for an evolving product design. While traditional project management approaches a project as a list of requirements as a whole, Scrum approaches each piece of functionality as an individual development challenge. 
-
-On the softer side of Scrum, it's about commitments and trust. The team commits to completing certain functionality and solving certain problems with a quality solution. The product owner commits to properly prioritize stories in the backlog. The team trusts that the product owner has the proper knowledge and authority to define the product and its features. The product owner or client trusts that the team will deliver what it has committed to, that they are working at a good pace, and have the expertise to create the best solution. The team and product owner work together to build the trust. The scrum master works with the product owner to ensure they don't try to overload the team and to ensure there is a ready backlog. He or she also works with the team to ensure that they don't try to take on too much work, have everything they need to succeed, and 
-
-Scrum is characterized by a series of sprints through which the product development emerges. At the beginning of each sprint, the development team makes a commitment to complete a certain number of user stories. 
-
-In the interest of constant improvement, we regularly inspect the project and the process
-Sprints a short development cycle (usually 9 working days). I
-
-Some info about functionality and usage… 20% of the functions account for 80% of the usage.
 
 
-The Roles of Scrum
-------------------
-
-In scrum, there are three main roles: scrum master, scrum team, and product owner. The scrum master's duty is to ensure that the scrum team has the best possible environment to be productive. They schedule the correct meetings, remove any blockers that they can, and enforce the process. Their duties often overlap with those of a traditional project manager, as well. The scrum team includes the players you might suspect: designers, developers, and systems administrators. These are the web chefs who will make the project happen. 
-
-The product owner role typically falls to you, the client. 
-
-Time
-Authority
-Knowledge
 
 
-Vertical not horizontal
-
-
-	•	Roles in scrum
-
-There are three main roles in the Scrum process: the product owner, the scrum master, and the development team. 
-
-	⁃	Product owner and stakeholders
-	⁃	Expectations of a product owner
-	⁃	scrummaster / project manager
-	⁃	Development team.
-	•	Meetings
-
-The process
-
-	•	Sprints
-	•	sprint planning 
-	•	demo
-
-Backlog
-
-Stories
-
-How do we get to a launchable project?
-
-Overhead -- cost vs value.
