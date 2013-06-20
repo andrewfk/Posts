@@ -137,10 +137,10 @@ At the end of the sprint, the team will hold a public demo. A public demo is ope
 
 Demos are pretty straightforward:
 
-# The team will demo each of the stories according to the “How to Demo” script written during planning. 
-# The team will answer any questions about the functionality that the product owner or other stakeholders might have.
-# If the story has been completed successfully (or nearly successfully), the team will ask the product owner if the story is accepted. 
-# Continue demonstrating.
+1. The team will demo each of the stories according to the “How to Demo” script written during planning. 
+2. The team will answer any questions about the functionality that the product owner or other stakeholders might have.
+3. If the story has been completed successfully (or nearly successfully), the team will ask the product owner if the story is accepted. 
+4. Continue demonstrating.
 
 
 > Protip: Rolling stories
@@ -157,9 +157,9 @@ Sprint Retrospective
 
 At the end of each sprint, after the demo, you may be invited to join the team for a sprint retrospective. This is a time designated to review how well the team is working together and what steps can be taken to improve. In a textbook retrospective, the scrum master will pose the same three questions to everyone on the team in a round robin fashion:
 
-# What went well?
-# What didn’t go as well?
-# What can we do to improve? 
+1. What went well?
+2. What didn’t go as well?
+3. What can we do to improve? 
 
 Everyone is given the chance to speak and discussion is discouraged until everyone has had the chance to speak.
 
